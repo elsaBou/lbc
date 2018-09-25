@@ -2,7 +2,7 @@
   display: flex;
   width: 1000px;
   height: 200px;
-  border: solid 1px lightgrey;
+  border: solid 1px pink;
   padding: 20px;
   margin-bottom: 10px;
   cursor: pointer;
@@ -10,7 +10,7 @@
 }
 
 .adcard:hover {
-  background: lightgray;
+  background: pink;
 }
 
 .adcard_content {
